@@ -4,10 +4,6 @@
 
 Welcome to the Augmented Reality Educational Website! 🌟 This repository contains the source code and assets for a website dedicated to providing interactive and immersive educational experiences through augmented reality (AR) technology. This README file will guide you through the project structure, setup, and usage instructions. 🚀
 
-# Second Runner Up at Star Hacks Hackathon by Cognizant 
-
-![img](https://github.com/anusree27/AugEdu/assets/85879627/24819a67-cc5e-48a5-ac1a-22eddda4d6db)
-
 
 ## Table of Contents 📚
 - [Demo](#Demo)
@@ -17,7 +13,6 @@ Welcome to the Augmented Reality Educational Website! 🌟 This repository conta
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo 
 
@@ -98,10 +93,8 @@ Contributions to the Augmented Reality Educational Website are welcome! If you e
 
 We appreciate your valuable contributions in making the Augmented Reality Educational Website even better! 🙌
 
-## License 📄
 
-The Augmented Reality Educational Website is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code for personal and commercial purposes. However, attribution to the original authors is highly appreciated. 📜👍
 
 ---
 
-Thank you for your interest in the Augmented Reality Educational Website! We hope it provides a captivating and immersive learning experience. For any questions or inquiries, please contact our team at [anusreeanilkumar27@gmail.com](mailto:anusreeanilkumar27@gmail.com). 📧🌟
+Thank you for your interest in the Augmented Reality Educational Website! We hope it provides a captivating and immersive learning experience. 
